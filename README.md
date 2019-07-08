@@ -1,6 +1,6 @@
 # Patience card game
 
-![Patience game](https://raw.githubusercontent.com/bcaccinolo/patience-card-game/master/screenshot.png =500x)
+![Patience game](https://raw.githubusercontent.com/bcaccinolo/patience-card-game/master/screenshot.png)
 
 ## Running in dev
 
